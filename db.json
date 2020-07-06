@@ -1,3 +1,88 @@
 {
-  "users": "tes"
+  "users": [
+    {
+      "id": 1,
+      "name": "Dicki",
+      "address": "Bogor",
+      "age": 19,
+      "phonenumber": "0881823",
+    },
+    {
+      "id": 2,
+      "name": "Fadilah",
+      "address": "Jakarta",
+      "age": 20,
+      "phonenumber": "0881441",
+    },
+    {
+      "id": 3,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 4,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 5,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 6,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 7,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 8,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 9,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 10,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 11,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    },
+    {
+      "id": 12,
+      "name": "Fajar",
+      "address": "Bandung",
+      "age": 21,
+      "phonenumber": "0881937",
+    }
+  ]
 }
